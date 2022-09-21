@@ -1,0 +1,15 @@
+.ClusterPage {
+    padding: calc(var(--padding) * 2);
+
+    header {
+        padding: var(--padding);
+    }
+
+    .controls {
+        margin-right: 0;
+        margin-left: auto;
+        flex-flow: row;
+        display: flex;
+        gap: 10px;
+    }
+}

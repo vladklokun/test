@@ -1,0 +1,10 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   << WOW! Now you can see the scan results on the web >>
+
+   https://portal.armo.cloud/configuration-scanning/minikube?utm_campaign=Submit&utm_medium=CLI&utm_source=GitHub
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+{"level":"info","ts":"2022-07-24T13:19:09Z","msg":"done scanning","ID":"e103a7d3-85a4-4abd-8d20-7d7754d9c86d"}
+{"level":"info","ts":"2022-07-24T13:19:24Z","msg":"requesting status","scanID":"e103a7d3-85a4-4abd-8d20-7d7754d9c86d","api":"v1/status"}
